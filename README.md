@@ -1,8 +1,8 @@
+[![Telecom Tracker platform overview](diagrams/platform-overview.png)](https://github.com/jaycloud336/telecom-tracker-architecture/raw/main/diagrams/platform-overview.png)
+
 # Telecom Tracker Platform: Secure, Scalable GitOps Infrastructure on Google Cloud
 
 **Highly available, secure and scalable infrastructure for a critical internal application, built on Google Cloud with Terraform, GitHub Actions and Argo CD.**
-
-[![Telecom Tracker platform overview](diagrams/platform-overview.png)](https://github.com/jaycloud336/telecom-tracker-architecture/raw/main/diagrams/platform-overview.png)
 
 ---
 
