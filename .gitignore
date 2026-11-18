@@ -1,0 +1,5 @@
+# Authoring sources — not part of the public showcase
+diagrams/*.drawio
+
+# Unused evidence folders (may return later in a different section)
+screenshots/
